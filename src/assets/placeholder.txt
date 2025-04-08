@@ -1,0 +1,10 @@
+Ce dossier contient les assets de l'application Clothly
+
+Dans une version de production, il contiendrait les images suivantes :
+- clothly-logo-placeholder.png : Logo principal de l'application
+- clothly-logo-white.png : Version blanche du logo pour fonds sombres
+- profile-placeholder.png : Image placeholder pour les profils utilisateurs
+- store1.png, store2.png, store3.png : Images des magasins partenaires
+- welcome-background.png : Image de fond pour l'écran d'accueil
+
+Note : Les fichiers sont remplacés par des placeholders minimalistes pour le dépôt GitHub.
